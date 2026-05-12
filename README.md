@@ -1,6 +1,6 @@
 # Mina Nagy
 
-**AI Engineer | Computer Vision & Deep Learning**
+**AI Engineer | Computer Vision | MLOps**
 
 AI Engineer specializing in Computer Vision and Deep Learning, with experience building, optimizing, and deploying ML models for real-world applications — including computer vision systems, Brain–Computer Interface (BCI) pipelines, and Generative AI, RAG, and agentic AI pipelines.
 
@@ -19,6 +19,10 @@ I actively follow AI research, particularly advances in vision and multimodal ar
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
